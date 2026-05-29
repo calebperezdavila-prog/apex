@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Databases and user secrets
+data/data.json
+.env
+.flaskenv
+
+# OS-specific temporary files
+.DS_Store
+Thumbs.db
